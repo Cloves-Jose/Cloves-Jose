@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://github.com/Cloves-Jose/Cloves-Jose/blob/main/picture/arte.jpg" width="550" title="hover text">
+</p>
+
 ### Olá! eu sou Cloves 👋
 
-- 🔭 Atualmente trabalhando com Flutter e JavaScript
+- 🔭 Atualmente trabalhando com Flutter, JavaScript e C#
 - 🌱 Atualmente aprendendo Flutter e JavaScript
 - 📫 contate-me pelo email: clovesjsilva8@gmail.com
 
