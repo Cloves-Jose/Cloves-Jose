@@ -4,8 +4,8 @@
 
 ### Olá! eu sou Cloves 👋
 
-- 🔭 Atualmente trabalhando com Flutter, JavaScript e C#
-- 🌱 Atualmente aprendendo Flutter e JavaScript
+- 🔭 Atualmente trabalhando com JavaScript
+- 🌱 Aprendendo React Native e Node
 - 📫 contate-me pelo email: clovesjsilva8@gmail.com
 
 <div>
