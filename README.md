@@ -4,8 +4,8 @@
 
 ### Olá! eu sou Cloves 👋
 
-- 🔭 Atualmente trabalhando com JavaScript
-- 🌱 Aprendendo React Native e Node
+- 🔭 Atualmente trabalhando com Java
+- 🌱 Aprendendo React e Java (Spring Boot)
 - 📫 contate-me pelo email: clovesjsilva8@gmail.com
 
 <div>
