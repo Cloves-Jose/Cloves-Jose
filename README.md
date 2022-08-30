@@ -18,9 +18,7 @@
   <img align="center" alt="Cloves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cloves-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cloves-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cloves-DART" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Cloves-FLUTTER" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Cloves-JAVA" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  
+  <img align="center" alt="Cloves-JAVA" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
 </div>
 
