@@ -5,7 +5,7 @@
 ### Olá! eu sou Cloves 👋
 
 - 🔭 Atualmente trabalhando com Java
-- 🌱 Aprendendo React e Java (Spring Boot)
+- 🌱 Aprendendo React e Java
 - 📫 contate-me pelo email: clovesjsilva8@gmail.com
 
 <div>
