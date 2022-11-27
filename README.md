@@ -4,8 +4,6 @@
 
 ### Olá! eu sou Cloves 👋
 
-- 🔭 Atualmente trabalhando com Java
-- 🌱 Aprendendo Angular e Java
 - 📫 contate-me pelo email: clovesjsilva8@gmail.com
 
 <div>
